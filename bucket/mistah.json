@@ -1,0 +1,15 @@
+{
+    "version": "0.6.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sistematlan/mistah/releases/download/v0.6.1/mistah_0.6.1_windows_amd64.zip",
+            "bin": [
+                "mistah.exe"
+            ],
+            "hash": "2823fa04d30e25a59c5086656cdca97351bec0e0f9198ad060b4bef3a201aff5"
+        }
+    },
+    "homepage": "https://mistah.sistematlan.com",
+    "license": "MIT",
+    "description": "CLI open-source que recupera espacio en disco: cachés, papelera, backups viejos y más. Sin telemetría, código auditable."
+}
